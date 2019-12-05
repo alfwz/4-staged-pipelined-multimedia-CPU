@@ -1,0 +1,20 @@
+[DRC Time]
+C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345/src/pipiline_unit.vhd=D
+[Files List]
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/standard.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\std/src/textio.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/numeric_std.vhdl=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/numeric_std-body.vhdl=S
+C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345/src/ins_buffer.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/textio.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/arith_p.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/arith_b.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/unsigned_p.vhd=S
+C:\Aldec\Active-HDL-Student-Edition\vlib\ieee/src/unsigned_b.vhd=S
+C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345/src/forwarding_unit.vhd=S
+C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345/src/alu.vhd=S
+C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345/src/register_file.vhd=S
+C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345/src/pipiline_unit.vhd=S
+C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345/src/file_io_tb.vhd=S

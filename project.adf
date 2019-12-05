@@ -1,0 +1,95 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=project
+
+[Library]
+project=.\project\project.lib
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+fileopenfolder=C:\Users\gavin\Desktop\Study
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+VerilogLanguage=8
+WarningPrnLevel=1
+OptimizationLevel=2
+ProtectLevel=0
+Strict=0
+VerilogNoSpecify=0
+AdditionalOptions=
+ErrorOutputLimit=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+NetlistCompilation=1
+EnableVHDL93Key=0
+EnableVHDL2002Key=0
+EnableVHDL2008Key=1
+DisableVHDL87Key=0
+Syntax RelaxLRM=0
+MaxErrorsKey=100
+OptimizationLevel=3
+DisableRangeChecks=0
+ProtectLevel=0
+IncrementalCompilation=0
+AdditionalOptions=
+
+[$LibMap$]
+project=.
+Active_lib=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=file_io_tb|behave|0   
+ShowHide=ShowTopLevel
+Selected=
+
+[DefineMacro]
+Global=
+
+[LocalVerilogDirs]
+Count=0
+
+[Files]
+/pipiline_unit.vhd=-1
+/ins_buffer.vhd=-1
+/forwarding_unit.vhd=-1
+/register_file.vhd=-1
+/alu.vhd=-1
+/ALU_Test.vhd=-1
+/wblock_diagram.bde=-1
+/file_io_tb.vhd=-1
+
+[Files.Data]
+.\src\pipiline_unit.vhd=VHDL Source Code
+.\src\ins_buffer.vhd=VHDL Source Code
+.\src\forwarding_unit.vhd=VHDL Source Code
+.\src\register_file.vhd=VHDL Source Code
+.\src\alu.vhd=VHDL Source Code
+.\src\ALU_Test.vhd=VHDL Source Code
+.\src\wblock_diagram.bde=Block Diagram
+.\src\file_io_tb.vhd=VHDL Source Code
+
+[file_out:/wblock_diagram.bde]
+/..\compile\block_diagram.vhd=-1

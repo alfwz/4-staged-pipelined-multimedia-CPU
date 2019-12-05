@@ -1,0 +1,33 @@
+SCHM0106
+
+HEADER
+{
+ FREEID 1
+ VARIABLES
+ {
+  #ARCHITECTURE="block_diagram"
+  #BLOCKTABLE_INCLUDED="0"
+  #ENTITY="block_diagram"
+  #LANGUAGE="VHDL"
+  CREATIONDATE="12/3/2019"
+ }
+}
+
+PAGE ""
+{
+ PAGEHEADER
+ {
+  MARGINS (200,200,200,200)
+  RECT (0,0,0,0)
+  VARIABLES
+  {
+   #LANGUAGE="VHDL"
+  }
+ }
+ 
+ BODY
+ {
+ }
+ 
+}
+

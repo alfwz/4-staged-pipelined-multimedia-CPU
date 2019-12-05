@@ -1,0 +1,37 @@
+Active-HDL 10.5.217.6767 2019-12-04 17:31:54
+
+Elaboration top modules:
+Architecture                  behave(file_io_tb)
+
+
+------------------------------------------------------------------------------------------------
+Entity          | Architecture | Library | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------
+file_io_tb      | behave       | project |      | 10.5.217.6767 (Windows) | -O3 -2008
+pipiline_unit   | structural   | project |      | 10.5.217.6767 (Windows) | -O3 -2008
+ins_buffer      | behavioral   | project |      | 10.5.217.6767 (Windows) | -O3 -2008
+register_file   | behavioral   | project |      | 10.5.217.6767 (Windows) | -O3 -2008
+alu             | behavioral   | project |      | 10.5.217.6767 (Windows) | -O3 -2008
+forwarding_unit | behavioral   | project |      | 10.5.217.6767 (Windows) | -O3 -2008
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+VHDL Package                   | Library | Info | Compiler Version        | Compilation Options
+------------------------------------------------------------------------------------------------
+standard                       | std     |      |                         | <unavailable>
+TEXTIO                         | std     |      |                         | <unavailable>
+std_logic_1164                 | ieee    |      |                         | <unavailable>
+NUMERIC_STD                    | ieee    |      |                         | <unavailable>
+insbuffer_type                 | project |      |                         | <unavailable>
+STD_LOGIC_TEXTIO               | ieee    |      |                         | <unavailable>
+std_logic_arith                | ieee    |      |                         | <unavailable>
+STD_LOGIC_UNSIGNED             | ieee    |      |                         | <unavailable>
+------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------
+Library                        | Comment
+------------------------------------------------------------------------------------------------
+ieee                           | Standard IEEE packages library
+project                        | None
+std                            | Standard VHDL library
+------------------------------------------------------------------------------------------------

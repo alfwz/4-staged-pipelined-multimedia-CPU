@@ -1,0 +1,17 @@
+100
+~E 1 "./../src/alu.vhd" 7 alu
+~A 1 "./../src/alu.vhd" 19 behavioral
+~E 1 "./../src/ALU_Test.vhd" 30 ALU_Test
+~A 1 "./../src/ALU_Test.vhd" 42 behavior
+~E 0 "" 0 block_diagram
+~A 0 "" 0 block_diagram
+~E 1 "./../src/file_io_tb.vhd" 8 file_io_tb
+~A 1 "./../src/file_io_tb.vhd" 12 behave
+~E 1 "./../src/forwarding_unit.vhd" 29 forwarding_unit
+~A 1 "./../src/forwarding_unit.vhd" 45 behavioral
+~E 1 "./../src/ins_buffer.vhd" 39 ins_buffer
+~A 1 "./../src/ins_buffer.vhd" 49 behavioral
+~E 1 "./../src/pipiline_unit.vhd" 31 pipiline_unit
+~A 1 "./../src/pipiline_unit.vhd" 41 structural
+~E 1 "./../src/register_file.vhd" 29 register_file
+~A 1 "./../src/register_file.vhd" 44 behavioral

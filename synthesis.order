@@ -1,0 +1,8 @@
+i<>.\src\ins_buffer.vhd
+i<>.\src\pipiline_unit.vhd
+i<>.\src\forwarding_unit.vhd
+i<>.\src\register_file.vhd
+i<>.\src\alu.vhd
+i<>.\src\ALU_Test.vhd
+i<>.\src\block_diagram.bde
+i<>.\src\file_io_tb.vhd

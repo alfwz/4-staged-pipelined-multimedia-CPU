@@ -1,0 +1,11 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345\src\alu.vhd" 
+BEGINPROGRESS C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345\src\alu.vhd
+MESSAGE "Compile Entity "alu"" 
+UPDATEPROGRESS 1
+UPDATEPROGRESS 2
+MESSAGE "Compile Architecture "behavioral" of Entity "alu"" 
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS C:\Users\Admin\iCloudDrive\Desktop\ESE345\project345\src\alu.vhd
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.4 [s]" 
